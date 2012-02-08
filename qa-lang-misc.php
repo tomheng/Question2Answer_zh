@@ -12,7 +12,7 @@
 
 	--------------Translate to chiness-------------
 	Author: tomheng 
-	Created: 2012-02-07
+	Created: 2012-02-08
 	Blog: http://blog.webfuns.net
 	Git: git@github.com:tomheng/Question2Answer_zh.git
 	------------------------------------------------	
