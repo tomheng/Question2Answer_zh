@@ -10,6 +10,12 @@
 	Version: See define()s at top of qa-include/qa-base.php
 	Description: Language phrases commonly used throughout Q2A
 
+	--------------Translate to chiness-------------
+	Author: tomheng 
+	Created: 2012-02-08
+	Blog: http://blog.webfuns.net
+	Git: git@github.com:tomheng/Question2Answer_zh.git
+	------------------------------------------------	
 
 	This program is free software; you can redistribute it and/or
 	modify it under the terms of the GNU General Public License
