@@ -123,7 +123,7 @@
 		'nav_qs' => '问题',
 		'nav_register' => '注册',
 		'nav_tags' => '标签',
-		'nav_unanswered' => '未回复',
+		'nav_unanswered' => '待回复',
 		'nav_updates' => '我的上传',
 		'nav_users' => '用户',
 		'no_active_users' => '没有活跃用户',
