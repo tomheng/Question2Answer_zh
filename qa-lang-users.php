@@ -46,7 +46,7 @@
 		'confirm_required' => '请点击发送到邮箱的验证链接（^1重新发送^2）完成注册。',
 		'confirm_title' => '验证邮箱',
 		'confirm_wrong_log_in' => '验证码不对 - 请^1登录^2获取新的验证链接',
-		'confirm_wrong_resend' => '验证码不对 - 请点击链接来重新获取验证链接'
+		'confirm_wrong_resend' => '验证码不对 - 请点击链接来重新获取验证链接',
 		'delete_user_button' => '删除用户',
 		'edit_user_button' => '编辑用户',
 		'email_confirmed' => '已确认',
