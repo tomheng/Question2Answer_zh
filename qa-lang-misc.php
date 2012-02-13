@@ -74,7 +74,7 @@
 		'my_favorites_title' => '我的收藏',
 		'nav_all_my_updates' => 'All my updates',
 		'nav_my_content' => '我的内容',
-		'nav_my_details' => 'My details',
+		'nav_my_details' => '个人资料',
 		'nav_my_favorites' => '我的收藏',
 		'no_activity_from_x' => '^没有任何动态',
 		'no_favorite_categories' => '没有收藏的分类',
