@@ -112,7 +112,7 @@
 		'flag_must_login' => '请^1登录^2 或 ^3注册^4 to flag posts.',
 		'flag_not_allowed' => 'Flagging this is not allowed',
 		'flag_q_popup' => 'Flag this question as spam or inappropriate',
-		'follow_a_popup' => '问一个和这个回复相关问题',
+		'follow_a_popup' => '问一个与此相关的问题',
 		'follow_button' => '问一个相关问题',
 		'follows_a' => 'related to an answer for:',
 		'follows_q' => 'about the question:',
