@@ -233,7 +233,7 @@
 		'tags_and_categories' => '标签和分类',
 		'tags_not_shown' => '隐藏标签下问题不会被显示.',
 		'tags' => '标签',
-		'test_sent_to_x' => '测试信息发送到 ^',
+		'test_sent_to_x' => '测邮件已试发送到 ^',
 		'title_already_used' => '标题已经被使用',
 		'top_level_categories' => '顶级分类:',
 		'total_as' => '回复数:',
