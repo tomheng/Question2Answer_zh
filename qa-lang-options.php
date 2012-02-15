@@ -237,7 +237,7 @@
 		'show_fewer_cs_count' => 'If partially hidden, show most recent:',
 		'show_fewer_cs_from' => 'Partially hide comments if more than:',
 		'show_full_date_days' => 'Show full date after:',
-		'show_home_description' => '首页加入<META>标签 :',
+		'show_home_description' => '首页描述(description meta)信息 :',
 		'show_if_no_as' => '如果没有回复',
 		'show_message_history' => '保存私信历史记录:',
 		'show_never' => '永不',
