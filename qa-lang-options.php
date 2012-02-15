@@ -114,7 +114,7 @@
 		'mailing_enabled' => '启用群发邮件（向所有用户发送邮件）：',
 		'mailing_from_email' => '发件邮箱:',
 		'mailing_from_name' => '发件人:',
-		'mailing_per_minute' => '每份中最大发送数:',
+		'mailing_per_minute' => '每分钟最大发送数:',
 		'mailing_subject' => '邮件标题:',
 		'match_1' => 'Narrowest',
 		'match_2' => 'Narrower',
