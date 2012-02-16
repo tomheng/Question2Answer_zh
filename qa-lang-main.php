@@ -124,7 +124,7 @@
 		'nav_register' => '注册',
 		'nav_tags' => '标签',
 		'nav_unanswered' => '待回复',
-		'nav_updates' => '我的上传',
+		'nav_updates' => '我的更新',
 		'nav_users' => '用户',
 		'no_active_users' => '没有活跃用户',
 		'no_answers_found' => '没有回复',
