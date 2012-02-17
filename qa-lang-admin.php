@@ -127,7 +127,7 @@
 		'mailing_complete' => '邮件已发送',
 		'mailing_explanation' => '用户可以在帐号设置中取消订阅。',
 		'mailing_progress' => '已发送^1用户，共^2用户...',
-		'mailing_title' => '邮件发送',
+		'mailing_title' =>'群发邮件',
 		'mailing_unsubscribe' => '每条信息的页脚都会有一个退订链接。',
 		'maintenance_admin_only' => '您的网站正在^1维护^2，普通用户无法访问。',
 		'maximum_x' => ' (最大^)',
