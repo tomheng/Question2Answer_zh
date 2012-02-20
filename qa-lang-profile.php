@@ -50,7 +50,7 @@
 		'permit_edit_a' => '编辑回复',
 		'permit_edit_c' => '编辑评论',
 		'permit_edit_q' => '编辑问题',
-		'permit_flag' => 'Flagging posts',
+		'permit_flag' => '举报成功的内容',
 		'permit_hide_show' => '隐藏、显示内容',
 		'permit_moderate' => '批准、驳回内容',
 		'permit_post_a' => '回复问题',
