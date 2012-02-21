@@ -205,7 +205,7 @@
 		'voted_qs_in_x' => '^投票最多问题',
 		'voted_qs_title' => '投票最多问题',
 		'voted_up_popup' => '投了赞成票- 点击删除',
-		'x_ago' => '^ 以前',
+		'x_ago' => '^前',
 		'x_answers' => '^ 回复',
 		'x_comments' => '^ 评论',
 		'x_days' => '^ 天',
