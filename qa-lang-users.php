@@ -38,7 +38,7 @@
 		'avatar_label' => '头像:',
 		'avatar_none' => '无',
 		'block_user_button' => '屏蔽用户',
-		'blocked_users' => '已屏蔽的用户',
+		'blocked_users' => '已屏蔽用户',
 		'change_email_link' => ' - ^1修改邮箱^2',
 		'change_password' => '修改密码',
 		'confirm_complete' => '谢谢 - 你的邮箱已验证',

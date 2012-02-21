@@ -89,7 +89,7 @@
 		'field_required' => '请填写字段内容',
 		'general_error' => '服务器出错 - 请重试.',
 		'hidden' => '隐藏',
-		'highest_users' => '积分最高的用户',
+		'highest_users' => '积分排行',
 		'hot_qs_in_x' => '^的热门问题',
 		'hot_qs_title' => '热门问题',
 		'image_not_read' => '图片无法显示，请上传一张: ^',
