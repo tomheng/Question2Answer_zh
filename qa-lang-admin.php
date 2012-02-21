@@ -101,7 +101,7 @@
 		'emails_title' => '邮件',
 		'feed_link_example' => '示例feed',
 		'feed_link' => 'Feed',
-		'feeds_title' => 'RSS feeds',
+		'feeds_title' => 'RSS订阅',
 		'field_link_url' => '链接地址',
 		'field_multi_line' => '多行文本',
 		'field_name' => '字段名:',
