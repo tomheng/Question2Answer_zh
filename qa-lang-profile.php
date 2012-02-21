@@ -58,7 +58,7 @@
 		'permit_post_q' => '提问',
 		'permit_recat' => '允许更改分类',
 		'permit_retag' => '允许更改标签',
-		'permit_select_a' => 'Selecting answer for any question',
+		'permit_select_a' => '指定问题的最佳答案',
 		'permit_view_q_page' => '查看问题页面',
 		'permit_vote_a' => '对回复投票',
 		'permit_vote_down' => '反对',

@@ -116,7 +116,7 @@
 		'send_password_button' => '发送新密码',
 		'send_reset_button' => '发送重置密码邮件',
 		'send_reset_note' => '重置密码邮件已经发出，请按照说明继续操作。',
-		'special_users' => '特别用户',
+		'special_users' => '特殊用户',
 		'unblock_user_button' => '解锁用户',
 		'unsubscribe_complete' => '你已经退订由 ^0 发送的群发邮件，你可以随时在 ^1账户^2 页面重新订阅。', 
 		'unsubscribe_title' => '退订',
