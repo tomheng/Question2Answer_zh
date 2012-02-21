@@ -86,7 +86,7 @@
 		'no_permission' => '你没有权限进行此操作',
 		'old_password' => '旧密码:',
 		'only_shown_admins' => '(仅管理员可见)',
-		'only_shown_moderators' => '(only shown to moderators)',
+		'only_shown_moderators' => '(仅版主可见)',
 		'password_changed' => '密码已修改',
 		'password_label' => '密码:',
 		'password_min' => '密码至少为^位字符',

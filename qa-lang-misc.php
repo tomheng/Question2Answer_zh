@@ -85,7 +85,7 @@
 		'no_updates_content' => '没有更新内容',
 		'no_updates_favorites' => '收藏中没有新内容',
 		'private_message_title' => '发送私信',
-		'recent_activity_from_x' => 'Recent activity from ^',
+		'recent_activity_from_x' => '^最新动态',
 		'recent_updates_content' => '与我有关的更新',
 		'recent_updates_favorites' => '收藏内容更新',
 		'recent_updates_title' => '与我有关的更新',
