@@ -36,7 +36,7 @@
 		'1_down_vote' => '1人反对',
 		'1_up_vote' => '1人赞成',
 		'1_with_best_chosen' => ' (一个最佳答案)',
-		'activity_by_x' => '^最后回复',
+		'activity_by_x' => '^最新动态',
 		'answers' => '回复:',
 		'bonus_points' => '奖励积分:',
 		'comments' => '评论:',
