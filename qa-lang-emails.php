@@ -75,7 +75,7 @@
 		'reset_body' => "点击下面的链接重置密码。\n\n^url\n\n或者，将下面的验证码出入重置密码表单。\n\n验证码: ^code\n\n如果你没有申请重置密码，请忽略本邮件。\n\n 谢谢,\n^site_title",
 		'reset_subject' => '^site_title - 找回密码',
 
-		'to_handle_prefix' => "^,\n\n",
+		'to_handle_prefix' => "你好^,\n\n",
 
 		'welcome_body' => "感谢注册^site_title.\n\n^custom^confirm 你的登录信息:\n\n 邮箱: ^email\n 密码: ^password\n\n请妥善保管此邮件，以备后查。\n\n谢谢,\n\n^site_title\n^url",
 		'welcome_confirm' => "点击下面的链接确认邮件地址.\n\n^url\n\n",
